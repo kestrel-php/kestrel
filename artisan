@@ -1,0 +1,5 @@
+<?php
+    //fwrite(STDOUT,"Write your name. :");
+    //fwrite(STDOUT,"Your name is : " . fgets(STDIN));
+    fwrite(STDOUT,$argc.'--'.var_dump($argv));
+?>
