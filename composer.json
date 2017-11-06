@@ -1,0 +1,14 @@
+{
+    "name": "philipszdavido/kestrel",
+    "description": "The Kestrel Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chidume Nnamdi",
+            "email": "kurtwanger40@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
